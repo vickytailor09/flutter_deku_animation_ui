@@ -6,4 +6,5 @@
 *.cc linguist-detectable=false
 *.objectivec linguist-detectable=false
 *.cpp linguist-detectable=false
+CMakeLists.txt linguist-detectable=false
 
