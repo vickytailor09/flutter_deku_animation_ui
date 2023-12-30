@@ -4,6 +4,5 @@
 *.html linguist-detectable=false
 *.c linguist-detectable=false
 *.cc linguist-detectable=false
-*.cmake linguist-detectable=false
 *.objectivec linguist-detectable=false
 
